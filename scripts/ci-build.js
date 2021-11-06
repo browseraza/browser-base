@@ -40,7 +40,7 @@ const getInput = (name) => {
         name: 'browseraza-nightly',
         repository: {
           type: 'git',
-          url: 'git+https://github.com/browseraza/browser-base-nightly.git',
+          url: 'git+https://github.com/browseraza/browser-base.git',
         },
       };
       await promises.writeFile(
