@@ -105,4 +105,6 @@ Guides and the API reference are located in [`docs`](docs) directory.
 
 # License
 
-This project is licensed under [GPLv3](LICENSE).
+This project is licensed under [GPLv3](LICENSE). \
+The original projects PATENTS file or other "non-commercial" things do not apply, as they violate the GPLv3 license. \
+Read more: https://github.com/wexond/browser-base/issues/622
